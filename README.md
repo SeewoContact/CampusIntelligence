@@ -1,6 +1,9 @@
 # CampusIntelligence
 ## 希沃畅联
 
+> 本项目暂不公开，只提供更新档案，由AnswerDev独立开发
+> [AnswerDev](https://github.com/answer2/)
+
 # 实现功能
 - **哔哩哔哩**
 - [x] 搜索视频
