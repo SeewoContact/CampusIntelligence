@@ -1,6 +1,8 @@
 # CampusIntelligence
 ## 希沃畅联
 
+> **由于我给希沃官方的反馈，本项目的大部分的接口已经不能正常使用，所以本项目会无限期的停更，且不开源**
+
 > 本项目暂不公开，只提供更新档案，由AnswerDev独立开发
 > [AnswerDev](https://github.com/answer2/)
 
